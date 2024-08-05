@@ -17,6 +17,7 @@ LSM:Register(MediaType_STATUSBAR, "BlizzUfBorderMiddle", [[Interface\Addons\Ress
 LSM:Register(MediaType_STATUSBAR, "BlizzUfBorderRight", [[Interface\Addons\RessourceLoader\statusbar\BlizzUfBorderRight.blp]])
 LSM:Register(MediaType_STATUSBAR, "BlizzUfBorderTop", [[Interface\Addons\RessourceLoader\statusbar\BlizzUfBorderTop.blp]])
 LSM:Register(MediaType_STATUSBAR, "BlizzUfBarCarbon", [[Interface\Addons\RessourceLoader\statusbar\BlizzUfBarCarbon.blp]])
+LSM:Register(MediaType_STATUSBAR, "ElvUI", [[Interface\Addons\RessourceLoader\statusbar\ElvUI.tga]])
 
 
 LSM:Register(MediaType_BORDER, "Glow", [[Interface\Addons\RessourceLoader\border\glow.tga]])
