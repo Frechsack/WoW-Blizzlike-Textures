@@ -5,4 +5,4 @@
 ## Dependencies: SharedMedia
 ## X-Curse-Project-ID: 1088834
 
-RessourceLoader.lua
+BlizzlikeTextures.lua
