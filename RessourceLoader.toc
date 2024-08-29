@@ -1,5 +1,5 @@
 ## Interface: 0000
-## Title: RessourceLoader
+## Title: Blizzlike Textures
 ## Notes: Inserts Ressources through the LibSharedMedia-library.
 ## Version: 1.0.0
 ## Dependencies: SharedMedia
